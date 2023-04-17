@@ -1,0 +1,24 @@
+.detailcard {
+    background-color:aliceblue
+}
+
+.shopname {
+    text-align: left;
+    padding-left: 1rem;
+}
+.detail {
+    width: fit-content;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    padding-left: 2rem;
+
+}
+
+.interactions{
+    display: flex;
+    padding-left: 2rem;
+}
